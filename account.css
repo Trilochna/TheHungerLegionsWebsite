@@ -1,0 +1,288 @@
+#header-section {
+  background-color: #1098ad;
+  line-height: 200px;
+
+  color: black;
+}
+
+body {
+  position: relative;
+}
+
+.container-fluid {
+  padding: 0% 15%;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: medium;
+}
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+.bitch {
+  background-color: #96f2d7;
+}
+
+h3 {
+  text-align: center;
+  font-size: 30px;
+  padding: 10px;
+  margin: 27px;
+  color: #1098ad;
+}
+
+.sitters {
+  text-align: center;
+  background-color: white;
+  margin-top: 20px;
+}
+
+h4 {
+  color: #1098ad;
+}
+p {
+  color: slategray;
+}
+
+#services {
+  margin-top: 20px;
+}
+
+#footer {
+  text-align: center;
+  padding: 5px;
+}
+
+.fab fa-instagram {
+  padding: 5px;
+  margin: 5px;
+}
+.fab fa-twitter {
+  padding: 5px;
+  margin: 5px;
+}
+.fas fa-envelope {
+  padding: 5px;
+  margin: 5px;
+}
+.row {
+  text-align: center;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.acc-bg {
+  background-image: url(https://catwithmonocle.com/wp-content/uploads/2020/02/ac-new-horizons-nook-pattern-2560x1440-1.jpg);
+}
+
+#theForm {
+  color: black;
+  /* diplay: table; */
+  padding: 25px;
+  margin: 20px;
+  margin-right: 10px;
+  border: solid 3px #96f2d7;
+  text-align: right;
+  float: left;
+  width: 500px;
+}
+.form-row {
+  display: table-row;
+  padding: 4px;
+}
+.form-row label {
+  display: table-cell;
+  padding: 4px;
+}
+.form-row input {
+  display: table-cell;
+  padding: 4px;
+}
+.form-row select {
+  display: table-cell;
+  padding: 4px;
+}
+
+.abstract {
+  padding: 10px;
+  margin-top: 20px;
+  width: 100%;
+  align-content: center;
+  top: 0px;
+  bottom: 0px;
+}
+
+.para1 {
+  padding-left: 3px;
+  background-image: url(para1.jpeg);
+}
+.abstract1 {
+  background-image: url(para1.jpeg);
+  text-align: center;
+  color: #333635;
+  font-style: italic;
+  margin: 10px;
+  padding: 10px;
+}
+
+.modal {
+  display: block;
+}
+
+.form-hidden {
+  display: none;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(3px);
+  z-index: 5;
+}
+
+.tv {
+  display: none;
+}
+
+.first {
+  padding: 20px;
+  margin: 20px;
+}
+
+.img1 {
+  padding: 5px;
+  margin: 5px;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #96f2d7;
+  color: white;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.testimonial-image {
+  width: 28%;
+  border-radius: 10%;
+  margin: 10px;
+}
+
+.welcome {
+  color: rgba(0, 0, 0, 0.7) !important;
+  font-weight: bold;
+}
+
+.welcome:hover {
+  color: rgba(0, 0, 0, 0.7) !important;
+}
+i {
+  color: #96f2d7;
+}
+
+.fa-3x:hover {
+  color: #1098ad;
+}
+
+.icon {
+  color: #66d9e8;
+}
+.social-icon {
+  color: black;
+}
+
+.spacing {
+  margin-top: 32px;
+}
+
+.space {
+  margin-top: 32px;
+}
+
+.date-section {
+  width: 40%;
+  margin: 0 auto;
+  margin-bottom: 100px;
+}
+
+.dates {
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 35px;
+}
+
+.search-date {
+  display: block;
+  margin: 0 auto;
+}
+/* 
+.date-subtitle {
+  color: #333635;
+  padding-left: 20px;
+} */
+
+.select-pettype {
+  margin-bottom: 35px;
+}
+
+.sitters-section {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.card {
+  box-shadow: 0 20px 30px rgba(0, 0, 0, 0.1);
+}
+
+.contact-sitter {
+  display: inline-block;
+  margin-top: 15px;
+}
+
+.card-subtitle {
+  font-weight: bold;
+}
+
+.card-text {
+  margin-bottom: 25px;
+}
+
+.available-days {
+  display: flex;
+  text-align: left;
+  justify-content: space-between;
+  gap: 15px;
+  color: #4d5154;
+}
+
+.month-name {
+  flex-basis: 50px;
+}
