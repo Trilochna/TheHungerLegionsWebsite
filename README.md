@@ -20,3 +20,7 @@ I'm working on this website to provide a back-end and am openly accepting contri
 
 
 ![image](https://user-images.githubusercontent.com/97858274/235295332-6d954c8c-8e2c-439f-940a-5822f6f1a759.png)
+
+![image](https://user-images.githubusercontent.com/97858274/235295506-98328a22-1938-49d6-9598-715289057c5e.png)
+
+![image](https://user-images.githubusercontent.com/97858274/235295531-e3d8e294-2c16-445b-9f0c-040a72b972bb.png)
