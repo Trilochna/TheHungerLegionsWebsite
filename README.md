@@ -12,7 +12,6 @@ I'm working on this website to provide a back-end and am openly accepting contri
 
 ## Website Screenshots 
 
-
 ![image](https://user-images.githubusercontent.com/97858274/235295308-956270a7-8e53-481d-adfe-e31ea34f8eb5.png)
 
 
